@@ -1,0 +1,5 @@
+azure-ai-contentunderstanding==1.2.0b2
+azure-ai-projects==2.2.0
+azure-core==1.41.0
+azure-identity==1.25.3
+openai==2.41.1

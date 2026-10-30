@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Azure Functions settings: copy local.settings.sample.json and fill in your own
+local.settings.json
